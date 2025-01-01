@@ -7,6 +7,6 @@ router.get("/singup",singup);
 
 router.get("/login",login);
 
-router.get("/logout",logout)
+router.get("/logout",logout);
 
 export default router;
