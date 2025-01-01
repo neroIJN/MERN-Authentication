@@ -29,7 +29,7 @@ export const singup = async (req,res) =>{
 
         await user.save();
 
-        //jwt
+        
         generateTokenAndSetCookie(res,user._id)
 
     } catch (error) {
