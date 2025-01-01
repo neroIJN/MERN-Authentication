@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, feel free to reach out to the project creator:
 
-- GitHub: [ItzNero](https://github.com/neroIJN)
+- GitHub: [neroIJN](https://github.com/neroIJN)
 - Email: [niroshanijn@gmail.com](mailto:niroshanijn@gmail.com)
 
 
